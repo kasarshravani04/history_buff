@@ -1,4 +1,4 @@
-# history_buff
+# History Buff
 History buff who always have something for you.
 
 # How do you use it?
